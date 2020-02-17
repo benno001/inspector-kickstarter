@@ -1,0 +1,7 @@
+*.sh
+*.log
+.terraform
+.vscode
+*.out
+*.tfstate
+*.tfstate.backup
